@@ -198,8 +198,7 @@ function Ui(){
             Secure Online Banking
           </h2>
           <p class="leading-relaxed text-base text-gray-200">
-            Advanced encryption aur multi-layer security ke sath apne accounts ko
-            24/7 safe aur accessible rakhein.
+           Keep your accounts secure and accessible 24/7 with advanced encryption and multi-layer security.
           </p>
         </div>
       </div>
@@ -217,8 +216,8 @@ function Ui(){
             Instant Money Transfer
           </h2>
           <p class="leading-relaxed text-base text-gray-200">
-            Local aur international transfers seconds mein karein, bina kisi
-            hassle ke.
+            Make local and international transfers in seconds, without any hassle.
+
           </p>
         </div>
       </div>
@@ -235,8 +234,8 @@ function Ui(){
             Smart Card Management
           </h2>
           <p class="leading-relaxed text-base text-gray-200">
-            Debit aur credit cards ko easily block, unblock aur monitor karein
-            mobile banking ke zariye.
+            Easily block, unblock, and monitor your debit and credit cards through mobile banking.
+
           </p>
         </div>
       </div>
@@ -264,9 +263,9 @@ function Ui(){
       </h1>
 
       <p class="mb-8 leading-relaxed text-base text-gray-200">
-        Apne debit aur credit card ke sath shopping, dining aur online payments par
-        <span class="font-semibold text-blue-600">up to 30% discount</span> hasil karein.
-        Limited time offers sirf hamare valued customers ke liye.
+        Shop, dine, and make online payments with your debit and credit card.
+        <span class="font-semibold text-blue-600">up to 30% discount</span> Avail exclusive limited-time offers, only for our valued customers.
+
       </p>
 
       <div class="flex justify-center">
@@ -295,8 +294,8 @@ function Ui(){
         Account Plans & Charges
       </h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-200">
-        Apni banking needs ke mutabiq best account plan choose karein. Transparent
-        charges aur premium benefits ke sath.
+        Choose the best account plan according to your banking needs, with transparent charges and premium benefits.
+
       </p>
     </div>
 
@@ -398,8 +397,8 @@ function Ui(){
         Trusted Banking at Scale
       </h1>
       <p class="lg:w-2/3 mx-auto leading-relaxed text-base text-gray-200">
-        Hamari digital banking services millions ke liye reliable, secure aur
-        fast solutions provide karti hain.
+        Our digital banking services provide reliable, secure, and fast solutions for millions.
+
       </p>
     </div>
 
